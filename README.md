@@ -141,7 +141,7 @@ you expected to happen, and what actually happened:
 -   [improve-document][]
 -   [feature-request][]
 
--   Or other type of [issue][new-issue].
+Or other type of [issue][new-issue].
 
 <!-- ## Contributing -->
 <!-- The maintainers actively manage the issues list, and try to highlight issues -->
@@ -217,12 +217,13 @@ you expected to happen, and what actually happened:
 ## Authors
 
 <!-- ordered by unicode of author's name -->
+<!-- leave 3 to 5 major jobs you have done in this project -->
 
-- ![][刘保海-img-sml] **[刘保海][]** *what you do*
-- ![][吴义谱-img-sml] **[吴义谱][]** *compacted-array,*
-- ![][张炎泼-img-sml] **[张炎泼][]** *slimtrie design,*
-- ![][李文博-img-sml] **[李文博][]** *trie-compressing,*
-- ![][李树龙-img-sml] **[李树龙][]** *serialization,*
+- ![刘保海-img-sml](https://avatars1.githubusercontent.com/u/26271283?s=18&v=4)  **[刘保海][]** *what you do*
+- ![吴义谱-img-sml](https://avatars3.githubusercontent.com/u/6927668?s=18&v=4)   **[吴义谱][]** *compacted-array,*
+- ![张炎泼-img-sml](https://avatars3.githubusercontent.com/u/44069?s=18&v=4)     **[张炎泼][]** *slimtrie design,*
+- ![李文博-img-sml](https://avatars1.githubusercontent.com/u/11748387?s=18&v=4)  **[李文博][]** *trie-compressing,*
+- ![李树龙-img-sml](https://avatars2.githubusercontent.com/u/13903162?s=18&v=4)  **[李树龙][]** *serialization,*
 
 See also the list of [contributors][] who participated in this project.
 
