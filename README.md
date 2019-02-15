@@ -218,11 +218,11 @@ you expected to happen, and what actually happened:
 
 <!-- ordered by unicode of author's name -->
 
-<span style="display: inline-block; width: 48%;"><span style="float:left; margin: 0 6 24;">![刘保海][刘保海-img-sml] </span> **[刘保海][]** <br/> *what you do*       </span>
-<span style="display: inline-block; width: 48%;"><span style="float:left; margin: 0 6 24;">![吴义谱][吴义谱-img-sml] </span> **[吴义谱][]** <br/> *compacted-array,*  </span>
-<span style="display: inline-block; width: 48%;"><span style="float:left; margin: 0 6 24;">![张炎泼][张炎泼-img-sml] </span> **[张炎泼][]** <br/> *slimtrie design,*  </span>
-<span style="display: inline-block; width: 48%;"><span style="float:left; margin: 0 6 24;">![李文博][李文博-img-sml] </span> **[李文博][]** <br/> *trie-compressing,* </span>
-<span style="display: inline-block; width: 48%;"><span style="float:left; margin: 0 6 24;">![李树龙][李树龙-img-sml] </span> **[李树龙][]** <br/> *serialization,*    </span>
+- ![刘保海][刘保海-img-sml] **[刘保海][]** *what you do*
+- ![吴义谱][吴义谱-img-sml] **[吴义谱][]** *compacted-array,*
+- ![张炎泼][张炎泼-img-sml] **[张炎泼][]** *slimtrie design,*
+- ![李文博][李文博-img-sml] **[李文博][]** *trie-compressing,*
+- ![李树龙][李树龙-img-sml] **[李树龙][]** *serialization,*
 
 See also the list of [contributors][] who participated in this project.
 
